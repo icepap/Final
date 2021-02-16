@@ -1,0 +1,13 @@
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.csprojAssemblyReference.cache
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.AssemblyInfoInputs.cache
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.AssemblyInfo.cs
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.exe
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.deps.json
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.runtimeconfig.json
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.runtimeconfig.dev.json
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.dll
+C:\Users\sagam\source\repos\5.5 рекурсия\bin\Debug\netcoreapp3.1\5.5 рекурсия.pdb
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.dll
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.pdb
+C:\Users\sagam\source\repos\5.5 рекурсия\obj\Debug\netcoreapp3.1\5.5 рекурсия.genruntimeconfig.cache
